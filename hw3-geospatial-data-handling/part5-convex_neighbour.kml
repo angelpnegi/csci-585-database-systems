@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CSCI-585</name>
+	<gx:CascadingStyle kml:id="__managed_style_09D9AB75F4254A8FB55F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=e8eaed&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_039550877F254A8E90F4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffa726&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2FE75EB1BC254A8DC2B1">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_133BAADF7B254A8FB55E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=e8eaed&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F56EFD1E7254A8DC2B1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A840356DF254A8DC2B1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2FE75EB1BC254A8DC2B1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_076F2E2C2A254A8FB55E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_133BAADF7B254A8FB55E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_09D9AB75F4254A8FB55F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1A840356DF254A8DC2B1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_199D21E23C254A8E90F3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffa726&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_27EB7705FC254A8D3D12">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0AC96F6247254A8E90F3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_199D21E23C254A8E90F3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_039550877F254A8E90F4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1491362B59254A8D3D12">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02E0C83205254A8D3D12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1491362B59254A8D3D12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_27EB7705FC254A8D3D12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_13A8E96AD4254A8D0690">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2475D1689A254A8D0690">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+		<Style id="convex">
+			<LineStyle>
+				<color>f12f2fd3</color>
+				<width>8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7dff0000</color>
+			</PolyStyle>
+		</Style>
+		<Style id="convexl">
+			<LineStyle>
+				<color>ffffffff</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7dff0000</color>
+			</PolyStyle>
+		</Style>
+
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0378A80770254A8D0690">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13A8E96AD4254A8D0690</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2475D1689A254A8D0690</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="05D88A1A9A25476B2204">
+		<name>Home: 2700 Ellendale Place</name>
+		<styleUrl>#__managed_style_0378A80770254A8D0690</styleUrl>
+		<Point>
+			<coordinates>-118.288115,34.030373,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FDA04FBE25476B2205">
+		<name>Entry 1: Downey Way Entrance</name>
+		<styleUrl>#__managed_style_02E0C83205254A8D3D12</styleUrl>
+		<Point>
+			<coordinates>-118.2913187256734,34.02204241502157,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="14F439413925476B2205">
+		<name>Entry 2: McCarthy Way Entrance</name>
+		<styleUrl>#__managed_style_02E0C83205254A8D3D12</styleUrl>
+		<Point>
+			<coordinates>-118.281118067135,34.02059937323951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2F202C959A25476B2205">
+		<name>Entry 3: McClintock Avenue Entrance</name>
+		<styleUrl>#__managed_style_02E0C83205254A8D3D12</styleUrl>
+		<Point>
+			<coordinates>-118.2871799602144,34.02507329808584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="305020E19325476B2205">
+		<name>Library 1: Leavey Library</name>
+		<styleUrl>#__managed_style_0F56EFD1E7254A8DC2B1</styleUrl>
+		<Point>
+			<coordinates>-118.28306,34.021646,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="46F312B71A25476B2205">
+		<name>Library 2: Doheny Library</name>
+		<styleUrl>#__managed_style_0F56EFD1E7254A8DC2B1</styleUrl>
+		<Point>
+			<coordinates>-118.284014,34.020278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="52193AD72025476B2205">
+		<name>Library 3: Science and Engineering Library</name>
+		<styleUrl>#__managed_style_0F56EFD1E7254A8DC2B1</styleUrl>
+		<Point>
+			<coordinates>-118.2887118324064,34.01983287503752,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0424EF89EF25476B2206">
+		<name>Fountain 1: Generations Fountains</name>
+		<styleUrl>#__managed_style_0AC96F6247254A8E90F3</styleUrl>
+		<Point>
+			<coordinates>-118.283284,34.022241,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="147CE6004025476B2206">
+		<name>Fountain 2: Prentiss Memorial Fountain</name>
+		<styleUrl>#__managed_style_0AC96F6247254A8E90F3</styleUrl>
+		<Point>
+			<coordinates>-118.284625,34.020655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2B6502473C25476B2206">
+		<name>Fountain 3: Patsy and Forrest Shumway Fountain</name>
+		<styleUrl>#__managed_style_0AC96F6247254A8E90F3</styleUrl>
+		<Point>
+			<coordinates>-118.285244,34.020258,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="359863AF2D25476B2206">
+		<name>Eateries 1: Pot Of Cha</name>
+		<styleUrl>#__managed_style_076F2E2C2A254A8FB55E</styleUrl>
+		<Point>
+			<coordinates>-118.278702,34.024997,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="47382F2F3425476B2206">
+		<name>Eateries 2: Ebaes</name>
+		<styleUrl>#__managed_style_076F2E2C2A254A8FB55E</styleUrl>
+		<Point>
+			<coordinates>-118.28366,34.034441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="52986EB4BA25476B2206">
+		<name>Eateries 3: Chipotle</name>
+		<styleUrl>#__managed_style_076F2E2C2A254A8FB55E</styleUrl>
+		<Point>
+			<coordinates>-118.284433,34.03202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Convex Hull</name>
+		<styleUrl>#convex</styleUrl>
+		<Polygon>
+		<outerBoundaryIs>
+		<LinearRing>
+			<coordinates>
+				-118.2887118324064,34.01983287503752,80
+				-118.2913187256734,34.02204241502157,80
+				-118.288115,34.030373,80
+				-118.28366,34.034441,80
+				-118.278702,34.024997,80
+				-118.281118067135,34.02059937323951,80
+				-118.284014,34.020278,80
+				-118.2887118324064,34.01983287503752,80
+			</coordinates>
+		</LinearRing>
+		</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Nearest Neighbour 1</name>
+		<styleUrl>#convexl</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.288115,34.030373,80 -118.284433,34.03202,80
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Nearest Neighbour 2</name>
+		<styleUrl>#convexl</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.288115,34.030373,80 -118.2871799602144,34.02507329808584,80
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Nearest Neighbour 3</name>
+		<styleUrl>#convexl</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.288115,34.030373,80 -118.28366,34.034441,80
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Nearest Neighbour 4</name>
+		<styleUrl>#convexl</styleUrl>
+		<LineString>
+			<coordinates>
+				-118.288115,34.030373,80 -118.2913187256734,34.02204241502157,80
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
